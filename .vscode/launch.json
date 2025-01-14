@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-App<dxc-clients>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "io.github.antoniomayk.dxc.clients.App",
+      "projectName": "dxc-clients",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
